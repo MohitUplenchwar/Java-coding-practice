@@ -3,7 +3,6 @@
  * You are given an array of integers. Your task is to find the second largest distinct element in the array using Java 8 Stream API.
  */
 
-
 package java8.streams;
 
 import java.util.Arrays;
